@@ -12,7 +12,7 @@
  <img alt="screenshot" src="screenshot3.png?raw=true" width="250px" />
 
 ## Instrucciones
----------
+
 1. Modifica el archivo `config.php` y módifica las variables en relación a tu servidor web mediante el programa `Secret Key Generator` el cual está subido en la raiz del proyecto.
 2. Subir la carpeta `SERVER`ya modificada a tu servidor web.
 3. Editar el archivo `Consts.class` dentro del proyecto de Android y pon en `FIXME` la dirección de tu web apuntando al archivo `functions.php`.
@@ -21,13 +21,11 @@
 
 
 ## Web Project
----------
 
 http://www.realnote.es
 
 
 ## Licencia
--------
 
 Libre, difundir, modificar.
 
