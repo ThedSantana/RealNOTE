@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealNote</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_share">Compartir</string>
+    <string name="default_text_note">No se ha añadido ningún texto</string>
+    <string name="default_title_note">Nota sin título</string>
+    <string name="delete_note">¿Estás seguro de que quieres eliminar la nota?</string>
+    <string name="error_not_existing_note">Esta nota no existe</string>
+    <string name="note_text_input">Texto de la nota</string>
+    <string name="note_title_input">Título de la nota</string>
+    <string name="share_using">Compartir mediante...</string>
+    <string name="title_activity_editor">Editar Nota</string>
+    <string name="delete_note_text_alert">¿Estás seguro de que quieres eliminar la nota?</string>
+    <string name="delete_note_title_alert">Eliminar la nota</string>
+    <string name="intro_one_desc">Rápida y Ligera</string>
+    <string name="intro_one_title">RealNote</string>
+    <string name="intro_three_desc">Inicia sesión en tu cuenta de Google para sincronizar todos tus dispositivos</string>
+    <string name="intro_three_title">Inicia Sesión</string>
+    <string name="intro_two_desc">Sincroniza tus notas en todos tus dispositivos</string>
+    <string name="intro_two_title">Conectado</string>
+    <string name="offline">Sin conexión</string>
+    <string name="settings_list_type_grid">Cuadrícula</string>
+    <string name="settings_list_type_list">Lista</string>
+    <string name="settings_list_type_text_view">Tipo de listado</string>
+    <string name="sign_in_start_text">Inicia sesión con <b>Google</b> para <b>Comenzar</b></string>
+    <string name="sign_out">Cerrar Sesión</string>
+    <string name="synchronising">Sincronizando…</string>
+</resources>

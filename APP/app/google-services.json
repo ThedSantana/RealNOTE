@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "574728497507",
+    "project_id": "firebase-realnote"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574728497507:android:172415d7bb85f472",
+        "android_client_info": {
+          "package_name": "realnote.designconcept.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574728497507-90mp1f1g35jktgfg8hjcm2e8jjqdi542.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "realnote.designconcept.cloud",
+            "certificate_hash": "3F003AFDCDD347E46B911F143CE6E09483E0DF03"
+          }
+        },
+        {
+          "client_id": "574728497507-dtaeo77fvg8imr9sqigbrk30ujub2k70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvhKNjznSjU000dUYrPcx9pOUwXYHqYlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

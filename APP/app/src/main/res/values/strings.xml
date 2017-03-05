@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">RealNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_editor">Edit Note</string>
+
+    <string name="note_title_input">Title of the note</string>
+    <string name="note_text_input">Text of the note</string>
+    <string name="error_not_existing_note">This note doesn\'t exist</string>
+    <string name="delete_note">Are you sure that you want to delete the note?</string>
+
+    <string name="default_title_note">No title added yet</string>
+    <string name="default_text_note">No text added yet</string>
+
+    <string name="action_share">Share</string>
+    <string name="share_text" translatable="false">%1$s:\n%2$s</string>
+    <string name="share_using">Share Note using</string>
+    <string name="delete_note_title_alert">Delete the Note</string>
+    <string name="delete_note_text_alert">Are you sure that you want to delete the note?</string>
+
+    <!--App Intro-->
+    <string name="intro_one_title">RealNote</string>
+    <string name="intro_one_desc">Fast and Light</string>
+
+    <string name="intro_two_title">Connected</string>
+    <string name="intro_two_desc">Sync your notes in all devices</string>
+
+    <string name="intro_three_title">Sign In</string>
+    <string name="intro_three_desc">Sign In into your Google Account to sync all your devices</string>
+    <string name="synchronising">Synchronising…</string>
+    <string name="offline">Offline</string>
+    <string name="settings_list_type_text_view">Type of List</string>
+    <string name="settings_list_type_list">List</string>
+    <string name="settings_list_type_grid">Grid</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in_start_text">Sign in with <b>Google</b> to <b>Start</b></string>
+
+</resources>
