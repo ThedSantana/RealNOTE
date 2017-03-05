@@ -1,5 +1,5 @@
 # RealNOTE
- ![Icono](App/app/src/main/res/drawable-xxhdpi/ic_launcher.png)
+ ![Icono](APP/app/src/main/res/drawable/note.png)
 
 [![Android app on Google Play](https://developer.android.com/images/brand/en_app_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=realnote.designconcept.cloud)  [![API](https://img.shields.io/badge/API-15%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=15)
 
