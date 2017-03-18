@@ -28,6 +28,7 @@ http://www.realnote.es
 ## Contributors
 
 Toni Mora Rives
+
 Jorge A Ariño V
 
 Note: I am not an expert developer and as a result the code-base isn't as professional as it could be. Hence, I will highly appreciate any contribution in any field regarding this project. All suggestions and issue reporting are welcome.
